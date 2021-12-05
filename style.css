@@ -340,6 +340,11 @@ header {
     text-transform: uppercase;
 }
 
+.sales_items {
+    display: flex;
+    justify-content: center;
+}
+
 .new_items, .sales_item{
     justify-content: space-between;
 }
